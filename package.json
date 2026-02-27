@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron .",
     "build": "electron-builder",
-    "build:win": "electron-builder --win --publish never"
+    "build:win": "electron-builder --win"
   },
   "author": "you",
   "license": "MIT",
@@ -29,4 +29,3 @@
     }
   }
 }
-
